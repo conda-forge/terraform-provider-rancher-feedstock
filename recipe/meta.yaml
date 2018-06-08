@@ -1,10 +1,10 @@
 {% set provider= "Rancher" %}
-{% set version = "1.2.0" %}
+{% set version = "1.2.1" %}
 
 {% set name = "terraform-provider-" + provider.lower() %}
 {% set x4_plugin = name + '_v' + version + "_x4" %}
 
-{% set sha256 = "16d4f633a89918c8af73f52ddbf8519c1aa1f393dac3b20ec200f761cb44eb56" %}
+{% set sha256 = "7d0cfe211825db043b16b7aca28c35b64c529e7457e48afd6275b51c1796eaac" %}
 {% set sha256_win32 = "4d4a6936528fc361abd08ff97e8f49b041da59331002399c9690f577f2efbf26" %}
 {% set sha256_win64 = "a2220bbe1aae8c02a8073ada4f77906dc532650d92f7a2b3181407441bf24624" %}
 
