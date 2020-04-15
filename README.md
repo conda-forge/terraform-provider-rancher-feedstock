@@ -155,5 +155,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@sodre](https://github.com/sodre/)
+* [@conda-forge/terraform](https://github.com/conda-forge/terraform/)
 
